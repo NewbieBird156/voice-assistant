@@ -1,0 +1,22 @@
+{
+    "name": "Voice Assistant",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "MP3": "github:sgbotic/pxt-sgbotic-mp3#cdbb4252afbdef8ed94f4b8be4e87bc1a23ee891"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
